@@ -1,0 +1,14 @@
+{
+  "name": "phasmophobia-photos",
+  "version": "1.0.0",
+  "description": "A simple script for auto-posting file changes, such as photos taken in Phasmophobia, to Discord via WebhookClient.",
+  "main": "index.mjs",
+  "scripts": {},
+  "keywords": [],
+  "author": "Stev Peifer <stev@bell.net>",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.5.2",
+    "discord.js": "^13.1.0"
+  }
+}
